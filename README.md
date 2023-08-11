@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelraman Diaa-Eldein
-- I'm studying mechatronics engineering
-     at ain shams university (senior 2).
+- I'm studying Mechatronics Engineering
+     at Ain Shams university (senior 2).
 - 📫 How to reach me Gmail: abdelrahmandiaaeldein@gmail.com
 
 <!---
