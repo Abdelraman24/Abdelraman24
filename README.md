@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Abdelraman Diaa-Eldein
-- 🌱 I’m currently learning Embedded systems
 - I'm studying mechatronics engineering
-     at ain shams university (senior 1).
-- 📫 How to reach me Gmail: bodydia78@gmail.com
+     at ain shams university (senior 2).
+- 📫 How to reach me Gmail: abdelrahmandiaaeldein@gmail.com
 
 <!---
 Abdelraman24/Abdelraman24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
